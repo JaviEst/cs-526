@@ -1,0 +1,28 @@
+{
+  "name": "HuffmanExample",
+  "type": "compression",
+  "algorithm": "huffman",
+  "properties": {
+    "lossless": true,
+    "optimal": true,
+    "prefix_free": true,
+    "adaptive": false
+  },
+  "complexity": {
+    "time": "O(n log n)",
+    "space": "O(n)"
+  },
+  "applications": [
+    "JPEG",
+    "MP3",
+    "ZIP",
+    "PNG",
+    "GZIP"
+  ],
+  "metadata": {
+    "year": 1952,
+    "inventor": "David Huffman",
+    "context": "MIT PhD research",
+    "paper": "A Method for the Construction of Minimum-Redundancy Codes"
+  }
+}
