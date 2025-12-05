@@ -1,0 +1,11 @@
+{
+  "frequency_map": {
+    "A": 81,
+    "T": 80,
+    "C": 74,
+    "G": 73,
+    "\n": 10
+  },
+  "padding": 1,
+  "original_length": 318
+}
